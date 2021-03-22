@@ -57,6 +57,7 @@
       }
   
   .a {
+    background-color: greenyellow;
     width: 960px;
     height: 100px;
     text-align: center;
@@ -64,7 +65,8 @@
    
   }
   .b {
-    
+    background-color:hotpink;
+
     width: 200px;
     height: 600px;
     text-align: center;
@@ -80,7 +82,14 @@
     float: right;
   }
 
-  
+  .c{
+    background-color:lightblue;
+
+  }
+  .d{
+    background-color:magenta;
+
+  }
  .e,.f,.g,.h{
    
     width: 187px;
@@ -90,9 +99,26 @@
     float: left;
     
   }
+.e{
+  background-color:midnightblue;
 
+}
+.f{
+  background-color:mediumseagreen;
+
+}
+.g{
+  background-color:orangered;
+
+}
+.h{
+  background-color:olivedrab;
+
+}
   
  .i {
+  background-color:lightsalmon;
+
     width: 756px;
     height: 150px;
     text-align: center;
